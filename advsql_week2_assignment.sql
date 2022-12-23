@@ -1,4 +1,5 @@
 #This is first sql project
+#create a database and tables
 CREATE DATABASE Grosvenor;
 use Grosvenor;
 
